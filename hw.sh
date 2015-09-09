@@ -1,1 +1,1 @@
-echo "ceci est une erreur"
+echo "machine 1 ftw"
