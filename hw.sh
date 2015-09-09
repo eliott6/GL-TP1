@@ -1,1 +1,1 @@
-echo "hello worldz"
+echo "Niark"
