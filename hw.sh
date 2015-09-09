@@ -1,1 +1,1 @@
-echo "hello worldz"
+echo "machine 1 ftw"
